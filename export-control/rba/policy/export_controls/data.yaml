@@ -50,7 +50,7 @@ euv_licensed_countries:
   - "us"
   - "za"
 
-# nxt_1970_and_up_nl_licensed_countries == euv_licensed_countries + China + Hong Kong + Philippines + Thailand + Vietnam
+# nxt_1970_and_up_nl_licensed_countries == euv_licensed_countries + China + Hong Kong + Philippines + Thailand + Vietnam 
 nxt_1970_and_up_nl_licensed_countries:
   - "at"
   - "au"
