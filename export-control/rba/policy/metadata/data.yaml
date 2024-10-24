@@ -1,0 +1,319 @@
+countries:
+  at:
+    name: Austria
+    cc_2: AT
+    cc_3: AUT
+  be:
+    name: Belgium
+    cc_2: BE
+    cc_3: BEL
+  bg:
+    name: Bulgaria
+    cc_2: BG
+    cc_3: BGR
+  hr:
+    name: Croatia
+    cc_2: HR
+    cc_3: HRV
+  cy:
+    name: Republic of Cyprus
+    cc_2: CY
+    cc_3: CYP
+  cz:
+    name: Czech Republic
+    cc_2: CZ
+    cc_3: CZE
+  dk:
+    name: Denmark
+    cc_2: DK
+    cc_3: DNK
+  ee:
+    name: Estonia
+    cc_2: EE
+    cc_3: EST
+  fi:
+    name: Finland
+    cc_2: FI
+    cc_3: FIN
+  fr:
+    name: France
+    cc_2: FR
+    cc_3: FRA
+  de:
+    name: Germany
+    cc_2: DE
+    cc_3: DEU
+  gr:
+    name: Greece
+    cc_2: GR
+    cc_3: GRC
+  hu:
+    name: Hungary
+    cc_2: HU
+    cc_3: HUN
+  ie:
+    name: Ireland
+    cc_2: IE
+    cc_3: IRL
+  it:
+    name: Italy
+    cc_2: IT
+    cc_3: ITA
+  lv:
+    name: Latvia
+    cc_2: lv
+    cc_3: LVA
+  lt:
+    name: Lithuania
+    cc_2: LT
+    cc_3: LTU
+  lu:
+    name: Luxembourg
+    cc_2: LU
+    cc_3: LUX
+  mt:
+    name: Malta
+    cc_2: MT
+    cc_3: MLT
+  nl:
+    name: Netherlands
+    cc_2: NL
+    cc_3: NLD
+  pl:
+    name: Poland
+    cc_2: PL
+    cc_3: POL
+  pt:
+    name: Portugal
+    cc_2: PT
+    cc_3: PRT
+  ro:
+    name: Romania
+    cc_2: RO
+    cc_3: ROU
+  sk:
+    name: Slovakia
+    cc_2: SK
+    cc_3: SVK
+  si:
+    name: Slovenia
+    cc_2: SI
+    cc_3: SVN
+  es:
+    name: Spain
+    cc_2: ES
+    cc_3: ESP
+  se:
+    name: Sweden
+    cc_2: SE
+    cc_3: SWE
+  au:
+    name: Australia
+    cc_2: AU
+    cc_3: AUS
+  br:
+    name: Brazil
+    cc_2: BR
+    cc_3: BRA
+  ba:
+    name: Bosnia-Herzegovina
+    cc_2: BA
+    cc_3: BIH
+  ca:
+    name: Canada
+    cc_2: CA
+    cc_3: CAN
+  is:
+    name: Iceland
+    cc_2: IS
+    cc_3: ISL
+  in:
+    name: India
+    cc_2: IN
+    cc_3: IND
+  il:
+    name: Israel
+    cc_2: IL
+    cc_3: ISR
+  jp:
+    name: Japan
+    cc_2: JP
+    cc_3: JPN
+  li:
+    name: Liechtenstein
+    cc_2: LI
+    cc_3: LIE
+  my:
+    name: Malaysia
+    cc_2: MY
+    cc_3: MYS
+  mx:
+    name: Mexico
+    cc_2: MX
+    cc_3: MEX
+  nz:
+    name: New Zealand
+    cc_2: NZ
+    cc_3: NZL
+  mk:
+    name: North Macedonia
+    cc_2: MK
+    cc_3: MKD
+  "no":
+    name: Norway
+    cc_2: "NO"
+    cc_3: NOR
+  rs:
+    name: Serbia
+    cc_2: RS
+    cc_3: SRB
+  sg:
+    name: Singapore
+    cc_2: SG
+    cc_3: SGP
+  za:
+    name: South Africa
+    cc_2: ZA
+    cc_3: ZAF
+  kr:
+    name: South Korea
+    cc_2: KR
+    cc_3: KOR
+  ch:
+    name: Switzerland
+    cc_2: CH
+    cc_3: CHE
+  tw:
+    name: Taiwan
+    cc_2: TW
+    cc_3: TWN
+  tr:
+    name: Turkey
+    cc_2: TR
+    cc_3: TUR
+  uk:
+    name: United Kingdom
+    cc_2: UK
+    cc_3: GBR
+  us:
+    name: United States of America
+    cc_2: US
+    cc_3: USA
+  # NXT1970 and Up
+  cn:
+    name: China
+    cc_2: CN
+    cc_3: CHN
+  hk:
+    name: Hong Kong
+    cc_2: HK
+    cc_3: HKG
+  ph:
+    name: Philippines
+    cc_2: PH
+    cc_3: PHL
+  th:
+    name: Thailand
+    cc_2: TH
+    cc_3: THA
+# Restricted Countries 2
+# Belarus, Cuba, Iran, North Korea, Russia and Syria
+  by:
+    name: Belarus
+    cc_2: BY
+    cc_3: BLR
+  cu:
+    name: Cuba
+    cc_2: CU
+    cc_3: CUB
+  ir:
+    name: Iran
+    cc_2: IR
+    cc_3: IRN
+  kp:
+    name: Democratic People's Republic of Korea
+    cc_2: KP
+    cc_3: PRK
+  ru:
+    name: Russian Federation
+    cc_2: RU
+    cc_3: RUS
+  sy:
+    name: Syrian Arab Republic
+    cc_2: SY
+    cc_3: SYR
+# Restricted Countries 1
+  af:
+    name: Afghanistan
+    cc_2: AF
+    cc_3: AFG
+  # Myanmar == Burma
+  mm:
+    name: Myanmar
+    cc_2: MM
+    cc_3: MMR
+  kh:
+    name: Cambodia
+    cc_2: KH
+    cc_3: KMH
+  cf:
+    name: Central African Republic
+    cc_2: CF
+    cc_3: CAF
+  # China
+  # Cyprus
+  # Hong Kong
+  cd:
+    name: Democratic Republic of Congo
+    cc_2: CD
+    cc_3: COD
+  # cg:
+  #   name: Congo
+  #   cc_2: CG
+  #   cc_3: COG
+  er:
+    name: Eritrea
+    cc_2: ER
+    cc_3: ERI
+  ht:
+    name: Haiti
+    cc_2: HT
+    cc_3: HTI
+  iq:
+    name: Iraq
+    cc_2: IQ
+    cc_3: IRQ
+  lb:
+    name: Lebanon
+    cc_2: LB
+    cc_3: LBN
+  ly:
+    name: Libya
+    cc_2: LY
+    cc_3: LBY
+  mo:
+    name: Macao
+    cc_2: MO
+    cc_3: MAC
+  so:
+    name: Somalia
+    cc_2: SO
+    cc_3: SOM
+  ss:
+    name: South Sudan
+    cc_2: SS
+    cc_3: SSD
+  sd:
+    name: Sudan
+    cc_2: SD
+    cc_3: SDN
+  ve:
+    name: Bolivarian Republic of Venezuela
+    cc_2: VE
+    cc_3: VEN
+  zw:
+    name: Zimbabwe
+    cc_2: ZW
+    cc_3: ZWE
+
+
