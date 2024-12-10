@@ -23,7 +23,7 @@ import rego.v1
 ## Initialize values
 #
 test if {
-  print("MARCEL", input)
+  print("MARCEL")
 }
 
 # Normalize input
