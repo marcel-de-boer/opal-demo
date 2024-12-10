@@ -24,12 +24,12 @@ import rego.v1
 #
 
 # Normalize input
-geo_cc := trim(lower(input.geo_cc), " ") if {
-	input.geo_cc
+geo_cc := trim(lower(geo_cc), " ") if {
+	geo_cc
 }
 
-target_eccn := trim(upper(input.target_eccn), " ") if {
-	input.target_eccn
+target_eccn := trim(upper(target_eccn), " ") if {
+	target_eccn
 }
 
 # Countries
