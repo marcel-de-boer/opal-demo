@@ -67,6 +67,7 @@ allow if {
 authorization := {
 	"allow": allow,
 	"message": deny,
+        "somekey": output,
 }
 
 #
