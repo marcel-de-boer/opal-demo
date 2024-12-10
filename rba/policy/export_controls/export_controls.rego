@@ -22,9 +22,6 @@ import rego.v1
 #
 ## Initialize values
 #
-test if {
-  print("MARCEL")
-}
 
 # Normalize input
 geo_cc := trim(lower(input.geo_cc), " ") if {
@@ -64,6 +61,7 @@ default allow := false
 
 allow if {
 	count(deny) == 0
+        print(input)
 }
 
 authorization := {
