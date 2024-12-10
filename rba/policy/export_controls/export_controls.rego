@@ -22,7 +22,10 @@ import rego.v1
 #
 ## Initialize values
 #
-print("MARCEL", input)
+test if {
+  print("MARCEL", input)
+}
+
 # Normalize input
 geo_cc := trim(lower(input.geo_cc), " ") if {
 	input.geo_cc
