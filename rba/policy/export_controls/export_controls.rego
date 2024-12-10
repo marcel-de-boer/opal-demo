@@ -61,7 +61,7 @@ default allow := false
 
 allow if {
 	count(deny) == 0
-        print(input)
+        print("MARCEL",input)
 }
 
 authorization := {
